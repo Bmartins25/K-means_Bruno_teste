@@ -2,8 +2,7 @@
 
 ---
 
-Repositório com propósito de aprendizado.
-
+Repositório com propósito de prática de conhecimento e técnicas.
 ---
 
 
